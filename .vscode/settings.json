@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Add_Two_Numbers.C": "cpp"
+        "Add_Two_Numbers.C": "cpp",
+        "8-Calculator_using_Switch.C": "cpp"
     }
 }
