@@ -29,12 +29,12 @@ How to Contribute? <br>
 
     * For SSH 
     ```
-    git clone git@github.com:Vishal-sys-code/18.0.0.1-Programming-in-Java.git
+    git clone git@github.com:Vishal-sys-code/18.0.0.2-Programming-In-C.git
     ```
 
     * For HTTPs 
     ```
-    git clone https://github.com/Vishal-sys-code/18.0.0.1-Programming-in-Java.git
+    git clone https://github.com/Vishal-sys-code/18.0.0.2-Programming-In-C.git
     ```
 * Select your Editor and do the PRs(Pull Requests)
 
