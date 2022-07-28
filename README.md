@@ -44,5 +44,6 @@ Pull request Merging (Privacy Policy):
 
 <br>
 
-## Authors and Editors
+## Authors and Editors/Contributors
 Vishal Pandey : <a href = "vishal-sys-code.github.io">vishalpandey.com</a>
+Rishav Tewari : <a href = "https://github.com/psychopass-me">rishavtewari.com</a>
