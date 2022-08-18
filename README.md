@@ -8,6 +8,31 @@ This repository contains the teaching of Programming in C from Basics to Advance
 
 ## Course Structure
 
+<b>```Basic of C programming```</b>
+
+* History of C
+* Number System
+* DataTypes and Variables
+* Keywords, Operators, Comments
+* Type casting
+* Control Statements: if-else, nested if-else, break, continue
+* Functions: Basic, Call by reference & value, Recursion(basic)
+* Array: 1D, 2D and Dynamic Array
+* Pointers, Address and Memory Management
+* String and functions: gets(), puts(), strlen(), strcpy(), strcmp(), strrev(), strlwr(), strupr(), strstr(), strcat()
+* Macros and preprocessor
+* Structures
+
+<b>```Data Structures and Algorithm```</b>
+* Arrays
+* Linked List
+* Stack
+* Queue and Priority Queue
+* Heap
+* Tree
+* Graph
+
+
 <br>
 
 ## Instructions
