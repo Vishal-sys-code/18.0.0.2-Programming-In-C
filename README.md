@@ -1,6 +1,6 @@
 # 18.0.0.2-Programming-In-C
 
-This repository contains the teaching of Programming in C from Basics to Advanced.
+This repository contains the course of my teaching the lecture of 18.0.0.2 Programming in C from Basics to Advanced.
 
 <br>
 
