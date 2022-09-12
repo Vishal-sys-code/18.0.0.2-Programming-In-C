@@ -2,8 +2,6 @@
 
 This repository contains the teaching of Programming in C from Basics to Advanced.
 
-**THIS COURSE WILL BE UPDATED SOON.**
-
 <br>
 
 ## Course Structure
