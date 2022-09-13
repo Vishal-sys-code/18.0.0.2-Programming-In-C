@@ -2,8 +2,6 @@
 
 This repository contains the course of my teaching the lecture of <b><i>18.0.0.2 Programming in C</i></b> from Basics to Advanced.
 
-<br>
-
 ## Course Syllabus
 <p>Syllabus of Programming in C: <a href="https://github.com/Vishal-sys-code/18.0.0.2-Programming-In-C/blob/main/Syllabus.MD">syllabus-programming-in-C.com</a></p>
 
@@ -42,5 +40,5 @@ Pull request Merging (Privacy Policy):
 <br>
 
 ## Authors and Editors/Contributors
-Vishal Pandey : <a href = "vishal-sys-code.github.io">vishalpandey.com</a> <br/>
+Vishal Pandey : <a href = "https://vishal-sys-code.github.io/">vishalpandey.com</a> <br/>
 Rishav Tewari : <a href = "https://github.com/psychopass-me">rishavtewari.com</a>
